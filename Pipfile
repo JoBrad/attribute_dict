@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+attribute-dict = {path = "."}
+
+[dev-packages]
+pylint = "*"
+"nose2" = "*"
+
+[requires]
+python_version = "3.7"
