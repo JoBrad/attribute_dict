@@ -5,7 +5,7 @@ with open("README.md", "r") as long_desc:
 
 setuptools.setup(
     name="attribute_dict",
-    version="1.0.0",
+    version="1.0.1",
     author="JoBrad",
     author_email="",
     description="A subclass of dict that allows object-style access to its entries",
