@@ -3,7 +3,7 @@ A subclass of dict that allows object-style access to its entries.
 
 # Installation
 ```sh
-pipenv install attribute_dict
+pipenv install attribute-dict
 ```
 
 # Usage
